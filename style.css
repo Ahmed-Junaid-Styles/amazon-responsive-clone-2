@@ -423,14 +423,14 @@ h2{
         align-items: center;
         justify-content: space-between;
         color: rgb(220,230,245);
-        height: 4vw;
+        height: 6.6vw;
         background-color: #232f3e;
         padding: 10px;
     }
     .nav2-item{
-        font-size: 2vw;
+        font-size: 3vw;
         margin: 0 .05vw;
-        padding: .25vw .4vw;
+        /* padding: .25vw .4vw; */
         border: .1vw solid #2a2f3d;
     }
 
@@ -446,7 +446,7 @@ h2{
         flex-wrap: wrap;
     }
     .card{
-        height: 58vw;
+        height: 62vw;
         width: 45.6vw;
         background-color: white;
         margin: 1.2vw;
@@ -481,7 +481,7 @@ h2{
     }
     .single-pic{
         width: 40vw;
-        height: 42vw;
+        height: 46vw;
         margin: 2px 4px;
     }
     .smartphone{
@@ -558,7 +558,7 @@ h2{
         color: rgb(160,170,195);
     }
     h2{
-        font-size: 3vw;
+        font-size: 4vw;
     }
     
     #dessert-haze{
