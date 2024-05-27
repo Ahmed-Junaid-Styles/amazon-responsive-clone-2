@@ -446,15 +446,15 @@ h2{
         flex-wrap: wrap;
     }
     .card{
-        height: 68vw;
+        height: 64vw;
         width: 45.6vw;
         background-color: white;
         margin: 1.2vw;
         padding: 1vw 2vw;
     }
     .single-row{
-        height: 15vw;
-        width: 95vw;
+        height: 52vw;
+        width: 94vw;
         background-color: white;
         margin: .6vw;
     
@@ -465,7 +465,7 @@ h2{
         
     }
     table tr td .img{
-        height: 14vw;
+        height: 15vw;
         width: 14vw;
         cursor: pointer;
         margin: 2vw;
@@ -485,15 +485,19 @@ h2{
         margin: 2px 4px;
     }
     .smartphone{
-        height: 6vw;
-        width: 14.5vw;
+        height: 28vw;
+        width: 41.7vw;
     }
     .three-in-one{
-        width: 4.7vw;
+        width: 13vw;
+        height: 12vw;
+    }
+    label{
+        font-size: 2.8vw;
     }
     .smartwatch{
-        height: 13.5vw;
-        width: 14.5vw;
+        height: 42vw;
+        width: 41.7vw;
     }
     .row3 >div,.row4>div,.row6>div{
         padding: .6vw 1vw;
@@ -526,10 +530,11 @@ h2{
     }
     #to-top{
         width: 100%;
-        height: 2.5vw;
+        height: 5vw;
         color: rgb(220,230,245);
         background-color: #333f4e;
         cursor: pointer;
+        font-size: 2.8vw;
     }
     #to-top:hover{
         background-color:  #355f6e;
@@ -562,87 +567,93 @@ h2{
     }
     
     #dessert-haze{
-        width: 12.45vw;
-        height: 10.37vw;
+        width: 35vw;
+        height: 37vw;
     }
     #makeup-remover{
         width: 10.06vw;
-        height: 10.37vw;
+        height: 37vw;
     }
     #cotton-swab{
-        width: 5.34vw;
-        height: vw;
+        width: 19.7vw;
+        height: 37vw;
     }
     #cotton-rounds{
-        width: 2.75vw;
-        height: vw;
+        width: 10.1vw;
+        height: 37vw;
     }
     #eos{
-        width: 4.66vw;
-        height: vw;
+        width: 17.2vw;
+        height: 37vw;
     }
     #hydro-silk{
-        width: 10.21vw;
-        height: vw;
+        width: 37vw;
+        height: 37vw;
     }
     #dove{
-        width: 5.18vw;
-        height: vw;
+        width: 19vw;
+        height: 37vw;
     }
     #elta{
-        width: 6.74vw;
-        height: vw;
+        width: 25vw;
+        height: 37vw;
     }
     #washing-machine{
-        width: 6.07vw;
-        height: vw;
+        width: 22vw;
+        height: 37vw;
     }
     #skilsaw{
-        width: 13.28vw;
-        height: vw;
+        width: 48vw;
+        height: 37vw;
     }
     #jet-oil{
-        width: 9.23vw;
-        height: vw;
+        width: 34vw;
+        height: 37vw;
     }
     #lion-statue{
-        width: 6.43vw;
-        height: vw;
+        width: 23.7vw;
+        height: 37vw;
     }
     #bed{
-        width: 10.37vw;
-        height: vw;
+        width: 37vw;
+        height: 37vw;
     }
     #black-figure{
-        width: 17.22vw;
-        height: vw;
+        width: 69vw;
+        height: 37vw;
     }
     #baby-brezza{
-        width: 10.27vw;
-        height: vw;
+        width: 37vw;
+        height: 37vw;
     }
     #lansinoh{
-        width: 11.31vw;
-        height: vw;
+        width: 41.7vw;
+        height: 37vw;
     }
     #minibrands{
-        width: 10.58vw;
-        height: vw;
+        width: 39vw;
+        height: 37vw;
     }
     #teddy{
-        width: 5.55vw;
-        height: vw;
+        width: 20.5vw;
+        height: 37vw;
     }
     #cetaphil{
-        width: 9.49vw;
-        height: vw;
+        width: 35.5vw;
+        height: 37vw;
     }
     #TV-toy{
-        width: 16.03vw;
-        height: vw;  
+        width: 59vw;
+        height: 37vw;  
     }
-
-
+    .hor-scroll{
+        overflow: auto;
+        white-space: nowrap;
+        padding: 1vw 2vw;
+    }
+    .hor-scroll>img{
+        margin: 0 2vw;
+    }
 
 }
 
