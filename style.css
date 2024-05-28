@@ -315,7 +315,7 @@ h2{
 }
 @media only screen and (max-width: 499px) {
     body{
-        background-color: aqua;
+        /* background-color: aqua; */
     }
 
 
@@ -326,7 +326,7 @@ h2{
         background-repeat: no-repeat;
     }
     .main-cnt{
-        margin-top: 15%;
+        margin-top: 18%;
     }
     .bold{
         font-weight: 550;
@@ -554,7 +554,7 @@ h2{
     }
     .seg{
         margin: 2.5vw 3vw;
-        width: 40vw;
+        width: 32vw;
         display: flex;
         flex-wrap: wrap;
     }
@@ -565,14 +565,14 @@ h2{
     .footer2{
         color: rgb(220,230,245);
         background-color: rgb(19, 26, 34);
-        height: 72vw;
+        height: 84vw;
         display: flex;
         justify-content: center;
     }
     .seg2{
-        width: 21vw;
-        padding: .5vw;
-        margin: 1.5vw .5vw;
+        width: 19vw;
+        padding: .8vw;
+        margin: 1.5vw 1.5vw;
         display: flex; 
         flex-wrap: wrap;
     }
