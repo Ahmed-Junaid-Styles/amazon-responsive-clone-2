@@ -314,9 +314,6 @@ h2{
     height: vw;  
 }
 @media only screen and (max-width: 499px) {
-    body{
-        /* background-color: aqua; */
-    }
 
 
     .main{
@@ -352,7 +349,7 @@ h2{
 
     .nav1{
         padding: 0 .723vw;
-        height: 28vw;
+        height: 26vw;
         background-color: rgb(25,28,27);
         display: flex;
         /* align-items: center; */
@@ -362,7 +359,7 @@ h2{
     }
     .nav-item{
         color: white;
-        margin: 2vw 0.5vw;
+        margin: 0vw 1vw;
         height: 2.3vw;
         /* padding: 0.1vw .4%; */
         border: .1vw solid black;
@@ -409,7 +406,7 @@ h2{
         text-align: center;
     }
     .search-inp{
-        height: 7.1vw;
+        height: 7vw;
         margin:-.3vw;
         width: 79vw;
         padding-left: 1.2vw;
@@ -435,7 +432,9 @@ h2{
     .cart-txt{
         font-size: 2.8vw;
     }
-
+    .item4,.item5,.item6,.item7{
+        padding-bottom: 6vw;
+    }
 
 
     .nav2{
@@ -539,11 +538,10 @@ h2{
     .li{
         list-style-type: none;
         margin: 0;
-        font-size: 3vw;
+        font-size: 2.7vw;
     }
     .seg>b{
-        font-size: 3.1vw;
-
+        font-size: 3vw;
     }
     .seg2>b{
         font-size: 2vw;
@@ -574,7 +572,7 @@ h2{
     }
     .seg{
         margin: 2.5vw 3vw;
-        width: 32vw;
+        width: 36vw;
         display: flex;
         flex-wrap: wrap;
     }
