@@ -519,16 +519,27 @@ h2{
     .li{
         list-style-type: none;
         margin: 0;
+        font-size: 3vw;
+    }
+    .seg>b{
+        font-size: 3.1vw;
+
+    }
+    .seg2>b{
+        font-size: 2vw;
     }
     .footer1{
         color: rgb(220,230,245);
         background-color: #232f3e;
-        height: 22.5vw;
+        height: 85vw;
     }
     .footer1-item,.footer2-item{
         display: flex;
         justify-content: center;
-    
+        flex-wrap: wrap;
+    }
+    .footer2-item{
+        width: 90vw;
     }
     #to-top{
         width: 100%;
@@ -542,7 +553,10 @@ h2{
         background-color:  #355f6e;
     }
     .seg{
-        margin: 2.5vw 4vw;
+        margin: 2.5vw 3vw;
+        width: 40vw;
+        display: flex;
+        flex-wrap: wrap;
     }
     .seg>b{
         font-weight: 700;
@@ -551,18 +565,21 @@ h2{
     .footer2{
         color: rgb(220,230,245);
         background-color: rgb(19, 26, 34);
-        height: 23vw;
+        height: 72vw;
         display: flex;
         justify-content: center;
     }
     .seg2{
-        width:6vw;
+        width: 21vw;
         padding: .5vw;
         margin: 1.5vw .5vw;
-        font-size: .65vw;
+        display: flex; 
+        flex-wrap: wrap;
     }
     .seg2>div{
-        color: rgb(160,170,195);
+        color: rgb(207, 207, 209);
+        font-size: 2vw;
+        width: 30vw;
     }
     h2{
         font-size: 4vw;
