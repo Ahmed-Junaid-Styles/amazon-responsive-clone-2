@@ -428,7 +428,7 @@ h2{
         padding: 10px;
     }
     .nav2-item{
-        font-size: 3.4vw;
+        font-size: 3vw;
         margin: 0 .05vw;
         /* padding: .25vw .4vw; */
         border: .1vw solid #2a2f3d;
@@ -460,8 +460,8 @@ h2{
     
     }
     table tr td{
-        width: 20vw;
-        font-size: 2.2vw;
+        width: 20.2vw;
+        font-size: 2.1vw;
         
     }
     table tr td .img{
@@ -531,7 +531,7 @@ h2{
     .footer1{
         color: rgb(220,230,245);
         background-color: #232f3e;
-        height: 85vw;
+        height: 72vw;
     }
     .footer1-item,.footer2-item{
         display: flex;
@@ -582,7 +582,7 @@ h2{
         width: 30vw;
     }
     h2{
-        font-size: 4vw;
+        font-size: 3.6vw;
     }
     
     #dessert-haze{
