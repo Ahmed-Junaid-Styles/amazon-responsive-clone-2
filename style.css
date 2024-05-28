@@ -423,12 +423,12 @@ h2{
         align-items: center;
         justify-content: space-between;
         color: rgb(220,230,245);
-        height: 6.6vw;
+        height: 8vw;
         background-color: #232f3e;
         padding: 10px;
     }
     .nav2-item{
-        font-size: 3vw;
+        font-size: 3.4vw;
         margin: 0 .05vw;
         /* padding: .25vw .4vw; */
         border: .1vw solid #2a2f3d;
@@ -478,14 +478,16 @@ h2{
         color: #007185;
         font-weight: 700;
         font-size: 2vw;
+        position: relative;
+        top: 1.6vw;
     }
     .single-pic{
         width: 40vw;
-        height: 46vw;
-        margin: 2px 4px;
+        height: 49vw;
+        margin: .12vw .22vw;
     }
     .smartphone{
-        height: 28vw;
+        height: 28.4vw;
         width: 41.7vw;
     }
     .three-in-one{
@@ -496,7 +498,7 @@ h2{
         font-size: 2.8vw;
     }
     .smartwatch{
-        height: 42vw;
+        height: 45vw;
         width: 41.7vw;
     }
     .row3 >div,.row4>div,.row6>div{
@@ -530,11 +532,11 @@ h2{
     }
     #to-top{
         width: 100%;
-        height: 5vw;
+        height: 7.8vw;
         color: rgb(220,230,245);
         background-color: #333f4e;
         cursor: pointer;
-        font-size: 2.8vw;
+        font-size: 3.4vw;
     }
     #to-top:hover{
         background-color:  #355f6e;
